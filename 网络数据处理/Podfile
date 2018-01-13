@@ -12,7 +12,7 @@ target '网络数据处理' do
     #pod 'WechatOpenSDK'
     #swift库
     #布局
-    #pod 'SnapKit'
+    pod 'SnapKit'
     #网络请求
     pod 'Alamofire'
     #网络缓存
@@ -22,7 +22,7 @@ target '网络数据处理' do
     #HUD
     #pod 'PKHUD'
     #图片缓存库
-    #pod 'Kingfisher'
+    pod 'Kingfisher'
     #轮播图
     #pod 'LLCycleScrollView'
     #键盘处理
@@ -36,7 +36,7 @@ target '网络数据处理' do
     #推流库
     #pod 'LFLiveKit'
     #刷新库
-    #pod 'MJRefresh'
+    pod 'MJRefresh'
     #照片库工具
     #pod 'ZLPhotoBrowser'
     #MQTT库
